@@ -1,4 +1,4 @@
-import anime from './node_modules/animejs'
+import anime from 'animejs'
 
 /**
  * hoverFx
