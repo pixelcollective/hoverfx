@@ -1,6 +1,6 @@
 # hoverFx
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/2d11d3f4f9de9e274212/maintainability)](https://codeclimate.com/github/pixelcollective/hoverfx/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/2d11d3f4f9de9e274212/maintainability)](https://codeclimate.com/github/pixelcollective/hoverfx/maintainability) [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT) [![npm version](http://img.shields.io/npm/v/@tinypixelco/hoverfx.svg?style=flat)](https://npmjs.org/package/@tinypixelco/hoverfx "View this project on npm")
 
 Declarative JS hover animations. Leverages anime.js.
 
