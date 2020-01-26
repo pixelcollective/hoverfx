@@ -39,6 +39,7 @@ Example:
 - elasticity
 - loop
 - scale
+- transition
 - translate-x
 - translate-y
 
