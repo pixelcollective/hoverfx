@@ -37,8 +37,8 @@ Example:
 - elasticity
 - loop
 - scale
-- translateX
-- translateY
+- translate-x
+- translate-y
 
 ## Dependencies
 
