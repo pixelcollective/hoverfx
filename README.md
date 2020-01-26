@@ -1,5 +1,7 @@
 # hoverFx
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/2d11d3f4f9de9e274212/maintainability)](https://codeclimate.com/github/pixelcollective/hoverfx/maintainability)
+
 Declarative JS hover animations. Leverages anime.js.
 
 ## Installation
